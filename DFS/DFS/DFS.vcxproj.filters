@@ -21,5 +21,8 @@
     <ClCompile Include="p783_MinimumDistanceBetweenBstNodes.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="p617_MergeTwoBinaryTrees.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

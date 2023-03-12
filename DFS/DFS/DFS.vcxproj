@@ -123,6 +123,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="p617_MergeTwoBinaryTrees.cpp" />
     <ClCompile Include="p671_SecondMinimumNodeInABinaryTree.cpp" />
     <ClCompile Include="p783_MinimumDistanceBetweenBstNodes.cpp" />
   </ItemGroup>
