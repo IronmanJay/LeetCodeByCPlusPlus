@@ -126,6 +126,7 @@
     <ClCompile Include="p419_BattleshipsInABoard.cpp" />
     <ClCompile Include="p617_MergeTwoBinaryTrees.cpp" />
     <ClCompile Include="p671_SecondMinimumNodeInABinaryTree.cpp" />
+    <ClCompile Include="p695_MaxAreaOfIsland.cpp" />
     <ClCompile Include="p783_MinimumDistanceBetweenBstNodes.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

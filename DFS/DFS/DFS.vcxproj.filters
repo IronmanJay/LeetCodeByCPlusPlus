@@ -27,5 +27,8 @@
     <ClCompile Include="p419_BattleshipsInABoard.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="p695_MaxAreaOfIsland.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
