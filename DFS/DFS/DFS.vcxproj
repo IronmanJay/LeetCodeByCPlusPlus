@@ -123,6 +123,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="p329_LongestIncreasingPathInAMatrix.cpp" />
     <ClCompile Include="p419_BattleshipsInABoard.cpp" />
     <ClCompile Include="p617_MergeTwoBinaryTrees.cpp" />
     <ClCompile Include="p671_SecondMinimumNodeInABinaryTree.cpp" />
