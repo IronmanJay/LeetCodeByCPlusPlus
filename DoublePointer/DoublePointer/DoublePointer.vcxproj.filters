@@ -15,22 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="p671_SecondMinimumNodeInABinaryTree.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="p783_MinimumDistanceBetweenBstNodes.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="p617_MergeTwoBinaryTrees.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="p419_BattleshipsInABoard.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="p695_MaxAreaOfIsland.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="p329_LongestIncreasingPathInAMatrix.cpp">
+    <ClCompile Include="C:\Users\IronmanJay\Desktop\p283_MoveZeroes.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

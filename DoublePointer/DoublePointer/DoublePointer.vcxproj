@@ -20,8 +20,8 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{CB274332-FE94-4657-BF46-90725409098C}</ProjectGuid>
-    <RootNamespace>DFS</RootNamespace>
+    <ProjectGuid>{C1B41F79-DF05-41AF-B656-A4975CE91209}</ProjectGuid>
+    <RootNamespace>DoublePointer</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.17763.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -123,12 +123,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="p329_LongestIncreasingPathInAMatrix.cpp" />
-    <ClCompile Include="p419_BattleshipsInABoard.cpp" />
-    <ClCompile Include="p617_MergeTwoBinaryTrees.cpp" />
-    <ClCompile Include="p671_SecondMinimumNodeInABinaryTree.cpp" />
-    <ClCompile Include="p695_MaxAreaOfIsland.cpp" />
-    <ClCompile Include="p783_MinimumDistanceBetweenBstNodes.cpp" />
+    <ClCompile Include="C:\Users\IronmanJay\Desktop\p283_MoveZeroes.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
