@@ -19,6 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="p1089_DuplicateZeros.c" />
     <ClCompile Include="p283_MoveZeroes.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
