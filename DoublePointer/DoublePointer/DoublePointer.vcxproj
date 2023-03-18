@@ -20,6 +20,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="p1089_DuplicateZeros.cpp" />
+    <ClCompile Include="p2540_MinimumCommonValue.cpp" />
     <ClCompile Include="p283_MoveZeroes.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
