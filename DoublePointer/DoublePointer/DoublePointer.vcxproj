@@ -23,6 +23,7 @@
     <ClCompile Include="p165_CompareVersionNumbers.cpp" />
     <ClCompile Include="p2540_MinimumCommonValue.cpp" />
     <ClCompile Include="p283_MoveZeroes.cpp" />
+    <ClCompile Include="p475_Heaters.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
