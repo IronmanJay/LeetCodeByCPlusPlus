@@ -19,6 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="I1721_VolumeOfHistogramLcci.cpp" />
     <ClCompile Include="p1089_DuplicateZeros.cpp" />
     <ClCompile Include="p165_CompareVersionNumbers.cpp" />
     <ClCompile Include="p2540_MinimumCommonValue.cpp" />
