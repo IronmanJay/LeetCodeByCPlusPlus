@@ -124,6 +124,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="p191_NumberOf1Bits.cpp" />
+    <ClCompile Include="p201_BitwiseAndOfNumbersRange.cpp" />
     <ClCompile Include="p231_PowerOfTwo.cpp" />
     <ClCompile Include="p405_CaonvertANumberToHexadecimal.cpp" />
   </ItemGroup>
