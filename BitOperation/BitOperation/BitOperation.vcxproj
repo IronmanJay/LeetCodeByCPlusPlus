@@ -128,6 +128,7 @@
     <ClCompile Include="p231_PowerOfTwo.cpp" />
     <ClCompile Include="p371_SumOfTwoIntegers.cpp" />
     <ClCompile Include="p405_CaonvertANumberToHexadecimal.cpp" />
+    <ClCompile Include="p982_TriplesWithBitwiseAndEqualToZero.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
