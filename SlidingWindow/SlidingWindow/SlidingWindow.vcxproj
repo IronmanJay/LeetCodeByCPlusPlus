@@ -123,6 +123,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="p1248_CountNumberOfNiceSubarrays.cpp" />
     <ClCompile Include="p1493_LongestSubarrayOf1sAfterDeletingOneElement.cpp" />
     <ClCompile Include="p1984_MinimumDifferenceBetweenHighestAndLowestOfKScores.cpp" />
     <ClCompile Include="p2379_MinimumRecolorsToGetKConsecutiveBlackBlocks.cpp" />
