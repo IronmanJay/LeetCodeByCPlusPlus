@@ -126,6 +126,7 @@
     <ClCompile Include="p1248_CountNumberOfNiceSubarrays.cpp" />
     <ClCompile Include="p1493_LongestSubarrayOf1sAfterDeletingOneElement.cpp" />
     <ClCompile Include="p1984_MinimumDifferenceBetweenHighestAndLowestOfKScores.cpp" />
+    <ClCompile Include="p2269_FindTheKBeautyOfANumber.cpp" />
     <ClCompile Include="p2379_MinimumRecolorsToGetKConsecutiveBlackBlocks.cpp" />
     <ClCompile Include="p643_MaximumAverageSubarrayI.cpp" />
   </ItemGroup>
